@@ -19,3 +19,7 @@ self.view.hudProgress = Float(1.0)
 
 ```hudText``` is optional, you can omit it.
 
+To hide the hud:
+```sh
+self.view.hideHud()
+```
